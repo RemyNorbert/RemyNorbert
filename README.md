@@ -1,1 +1,1 @@
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/RemyNorbert/RemyNorbert/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev"><img src="https://github.com/RemyNorbert/RemyNorbert/devcard.svg" width="400" alt="Remy Norbert's Dev Card"/></a>
